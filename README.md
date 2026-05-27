@@ -1,8 +1,7 @@
 # RealTime Sensing
 
 Repositorio del proyecto final. 
-Alejandra Sanchez
-Nabor Marquez
+Alejandra Sanchez y Nabor Marquez
 
 ## Contenido
 
