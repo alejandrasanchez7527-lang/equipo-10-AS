@@ -1,6 +1,6 @@
 # RealTime Sensing
 
-Repositorio del proyecto final.
+Repositorio del proyecto final. Alejandra Sanchez
 
 ## Contenido
 
