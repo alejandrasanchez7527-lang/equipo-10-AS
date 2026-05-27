@@ -1,6 +1,8 @@
 # RealTime Sensing
 
-Repositorio del proyecto final. Alejandra Sanchez
+Repositorio del proyecto final. 
+Alejandra Sanchez
+Nabor Marquez
 
 ## Contenido
 
@@ -17,9 +19,7 @@ Cada equipo tendrá su propia carpeta dentro de este repositorio donde subirá s
 ```
 RealTime_Sensing/
 ├── Interface/          # Código de ejemplo: ESP32 + Python
-├── Equipo_1/           # Proyecto del equipo 1
-├── Equipo_2/           # Proyecto del equipo 2
-├── Equipo_N/           # ...
+├── Equipo_10/          # Proyecto del equipo 10
 └── README.md
 ```
 
